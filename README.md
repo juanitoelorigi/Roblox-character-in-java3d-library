@@ -1,4 +1,4 @@
-# Roblox-character-in-java3d-library
+# Roblox character in java3d library
 
 ## Descripción  
 Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarrollado en Java con la librería Java 3D para animaciones y renderizado gráfico. El personaje puede realizar acciones como caminar, bailar y girar sus articulaciones (piernas, rodillas, hombros), controladas mediante una interfaz gráfica intuitiva. Además, incluye integración de audio y ajuste de parámetros de movimiento en tiempo real.  
