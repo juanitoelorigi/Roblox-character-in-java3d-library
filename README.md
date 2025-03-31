@@ -17,7 +17,7 @@ Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarr
 ---
 
 ## Requisitos  
-- **Java Development Kit (JDK) 11** [[8]](https://docs.oracle.com/en/java/javase/11/)  
+- **Java Development Kit (JDK) 11** [[Jdk 11 documentation]](https://docs.oracle.com/en/java/javase/11/)  
 - **Librerías Java 3D**:  
   - `j3dcore.jar`  
   - `j3dtuils.jar`  
@@ -28,4 +28,23 @@ Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarr
 ## Instalación  
 1. Clona el repositorio o descarga el código fuente.  
 2. Asegúrate de tener JDK 11 instalado.  
-3. Agrega las librerías Java 3D al proyecto (ejemplo en NetBeans):  
+3. Agrega las librerías Java 3D al proyecto (ejemplo en NetBeans):
+   Haz clic derecho en "Libraries" → "Add JAR/Folder" → Selecciona los archivos .jar de Java 3D.
+4. Ejecuta el archivo `NewJFrame.java` para iniciar la aplicación.  
+
+---
+
+## Uso  
+### Acciones del Personaje  
+- **Caminar**: Presiona el botón "Caminar" para activar el movimiento lineal.  
+- **Bailar**: Haz clic en "Bailar" para ejecutar una secuencia de danza predefinida.  
+- **Girar Articulaciones**: Usa los botones como "Girar Pierna D", "Girar Rodilla" o "Girar Hombro" para rotar partes específicas.  
+- **Reproducir Música**: Haz clic en "Musica" para escuchar un tema de fondo.  
+
+### Ajuste de Parámetros  
+- **Ángulo de Rotación**: Arrastra la barra "Grados" para cambiar el rango de movimiento de las articulaciones.  
+- **Velocidad**: Modifica la barra "Eje" para ajustar la velocidad de las animaciones.  
+
+---
+
+## Estructura del Proyecto  
