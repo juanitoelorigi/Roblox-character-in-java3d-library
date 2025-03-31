@@ -49,23 +49,28 @@ Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarr
 
 ## Estructura del Proyecto  
 
-`
+``
+Roblox
 ├── img/
 │ ├── Face.png
 │ ├── FaceR.png
-│ └── ...
+│ ├── FaceRoblox.png
+│ └── fondoMadera.jpg
 ├── musica/
 │ └── RechazamePrinceRoy.wav
 ├── roblox/
 │ ├── Color.java
 │ ├── HiloBailar.java
-│ └── ...
+│ ├── HiloCamar.java
+│ ├── NewJFrame.java
+│ ├── crearEscenaGrafica.java
+│ └── textura.java
 └── Libraries/
 ├── Java3d-j3core.jar
 ├── Java3d-j3dtuils.jar
-└── ...
+└── vecmath.jar
+``
 
-`
 ---
 
 
