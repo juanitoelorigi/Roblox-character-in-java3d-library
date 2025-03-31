@@ -49,6 +49,7 @@ Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarr
 
 ## Estructura del Proyecto  
 
+`
 ├── img/
 │ ├── Face.png
 │ ├── FaceR.png
@@ -64,6 +65,7 @@ Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarr
 ├── Java3d-j3dtuils.jar
 └── ...
 
+`
 ---
 
 
