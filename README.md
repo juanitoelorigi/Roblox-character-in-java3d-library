@@ -48,3 +48,31 @@ Este proyecto simula un personaje de Roblox en un entorno 3D interactivo, desarr
 ---
 
 ## Estructura del Proyecto  
+
+├── img/
+│ ├── Face.png
+│ ├── FaceR.png
+│ └── ...
+├── musica/
+│ └── RechazamePrinceRoy.wav
+├── roblox/
+│ ├── Color.java
+│ ├── HiloBailar.java
+│ └── ...
+└── Libraries/
+├── Java3d-j3core.jar
+├── Java3d-j3dtuils.jar
+└── ...
+
+---
+
+
+---
+
+## Contribuciones  
+¡Contribuciones bienvenidas! Si encuentras errores o tienes ideas para mejorar el proyecto, abre un issue o envía un pull request.  
+
+---
+
+## Licencia  
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.  
